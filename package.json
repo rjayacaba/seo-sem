@@ -1,0 +1,20 @@
+{
+  "name": "awjay",
+  "version": "1.1.0",
+  "description": "yeah",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjayacaba/seo-sem.git"
+  },
+  "author": "Rjay 1.1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjayacaba/seo-sem/issues"
+  },
+  "homepage": "https://github.com/rjayacaba/seo-sem#readme"
+}
